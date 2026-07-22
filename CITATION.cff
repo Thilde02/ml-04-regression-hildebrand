@@ -16,13 +16,13 @@ version: "0.1.0"
 date-released: "2026-06-16"
 
 authors:
-  - family-names: Case
-    given-names: Denise M.
+  - family-names: Hildebrand
+    given-names: Tiffany
     orcid: "https://orcid.org/0000-0001-6165-7389"
     affiliation: "Northwest Missouri State University, School of Computer Science and Information Systems, Maryville, MO, USA"
 
-repository-code: "https://github.com/denisecase/ml-04-regression"
-url: "https://github.com/denisecase/ml-04-regression"
+repository-code: "https://github.com/Thilde02/ml-04-regression-hildebrand"
+url: "https://github.com/Thilde02/ml-04-regression-hildebrand"
 license: MIT
 
 abstract: >
