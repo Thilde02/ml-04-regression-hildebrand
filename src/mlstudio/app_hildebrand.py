@@ -201,11 +201,11 @@ def predict_example(model: LinearRegression) -> None:
     new_case = pd.DataFrame(
         [
             {
-                "hours_studied": 6.5,
-                "practice_quizzes": 4,
-                "attendance_pct": 92,
-                "sleep_hours": 7.0,
-                "prior_score": 72,
+                "hours_studied": 8.0,
+                "practice_quizzes": 5,
+                "attendance_pct": 98,
+                "sleep_hours": 8.0,
+                "prior_score": 85,
             }
         ]
     )
